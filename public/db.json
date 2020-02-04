@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 10001,
+      "title": "Women ",
+      "description": "",
+      "available colors": [
+        "black",
+        "navy",
+        "nude"
+      ],
+      "price": 169.00,
+      "isFreeShipping": true
+    },
+    {
+      "id": 2,
+      "sku": 10002,
+      "title": "Women ",
+      "description": "",
+      "available colors": [
+        "black",
+        "navy",
+        "nude"
+      ],
+      "price": 169.00,
+      "isFreeShipping": true
+    }
+  ]
+}
